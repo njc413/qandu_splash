@@ -1,1 +1,1 @@
-web: gunicorn qandu_splash.wsgi --log-file--
+web: gunicorn qandu_splash.wsgi --log-file -
